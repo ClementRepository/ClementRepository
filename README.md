@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a former teacher that is passionate about teaching others on how to start their tech journey with AWS.<br><br>Check out my learning curriculum I made from scratch: [TerraformForAbsoluteBeginners](https://github.com/ClementRepository/TerraformforAbsoluteBeginners)
+I'm a former teacher that is passionate about teaching others on how to start their tech journey with AWS and VMs.<br><br>Check out my learning curriculum I made from scratch: [TerraformForAbsoluteBeginners](https://github.com/ClementRepository/TerraformforAbsoluteBeginners)
 
 
 ## 🌐 Socials:
