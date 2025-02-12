@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a former teacher that is passionate about teaching others on how to start their tech journey with AWS and VMs.<br><br>Check out my learning curriculum I made from scratch: [TerraformForAbsoluteBeginners](https://github.com/ClementRepository/TerraformforAbsoluteBeginners)
 
-
+Currently looking to work in IT, Devops, or EdTech.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ClemTan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:clemtan8@gmail.com) 
 
